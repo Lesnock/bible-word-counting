@@ -1,7 +1,7 @@
 {
-  "name": "bible-web-scraping",
+  "name": "bible-word-counting",
   "version": "1.0.0",
-  "description": "A software to count how many times a word (GOD) appears in the bible (ACF)",
+  "description": "A software to count how many times a word appears in the bible using bibliaonline.com.br",
   "main": "index.js",
   "author": "Caio Lesnock <caio.dev@outlook.com>",
   "license": "MIT",
