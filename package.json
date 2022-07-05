@@ -6,7 +6,7 @@
   "author": "Caio Lesnock <caio.dev@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest",
+    "compile": "tsc",
     "watch": "tsc --watch"
   },
   "devDependencies": {
