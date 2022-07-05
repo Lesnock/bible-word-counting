@@ -4,5 +4,15 @@
   "description": "A software to count how many times a word (GOD) appears in the bible (ACF)",
   "main": "index.js",
   "author": "Caio Lesnock <caio.dev@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.4",
+    "jest": "^28.1.2",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
 }
